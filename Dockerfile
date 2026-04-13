@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-
+# 1
 ######## WebUI frontend ########
 FROM --platform=$BUILDPLATFORM node:22-alpine3.20 AS build
 
